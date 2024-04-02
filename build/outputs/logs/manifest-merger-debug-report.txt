@@ -1,0 +1,447 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\189c3a6f33647732391334140c31d3df\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\dbcf762c8b3d30cf273aa91dedda94b8\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\9d59d512b6a1d39c88762d555a8fc15c\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\jenis\caches\transforms-2\files-2.1\f0291a8c0b0d9e8d3e94db471e229c1e\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\jenis\caches\transforms-2\files-2.1\62026b57bd02b6ceb126a9028b1d7d87\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\jenis\caches\transforms-2\files-2.1\783f95de84aa3ee1843ea3746a9ade73\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\77c31d642b2096d7bb58e4b8679ad246\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\8e67703f2f0fa508dc93dcbef3b39e31\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\7b6e812e16dc06ee84f1b0dcf7ab9e02\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\jenis\caches\transforms-2\files-2.1\740883312691156d3b7d84327249c16a\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\jenis\caches\transforms-2\files-2.1\f0c416b221675a9bfb2ff77cd11e063c\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\jenis\caches\transforms-2\files-2.1\9371711572a3863f1bb7127875adac27\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\8a5c0a02e82051fd48f3635bf619f074\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\2fb359aab51dcb4255c06bd2d75c18eb\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\a58469314ab9b32adfa8791258acdf60\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\e6122c3d97c1393b62de62a0108d6276\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jenis\caches\transforms-2\files-2.1\467cefd3574a29c397cf52aa6f66b461\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\0a1fb452411e84795f887ed82d43ac63\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\f25188e865061cebf222920103a94d95\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\d25c7faaa38c81f1d52aec843399f9ce\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\f542b45b2d4ff8fcd929f56493bd4837\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\518eddb2bfc81fedba1076b2d1fc1a82\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\ac6030c81bc70f9c754335056208319c\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\73e0949864a32e6b5173f17e23e7fb82\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\bbca3086f9316cdbf86ca476be45aab4\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\4f6853e81741a160d2d2d9c04e955800\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\6ce4679b2c5caf884bb7dc2e0687cee4\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\dfe217d6fabc3cd712bf8246522eac28\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\45dd79f29026ec8fdcd84fe3dfde5cc9\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\dd564911cb0512d654280b45d851e8d6\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\jenis\caches\transforms-2\files-2.1\317b4ccf91cdd17d9f880cbaf586e81f\jetified-transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\4edc041491d2a532b37de2234b429794\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2b84712ca7ec2cd70b533a34a1261b33\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\jenis\caches\transforms-2\files-2.1\61265bc5f4184f00906ebcd49eb19ebe\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\e3b7b49b2dedba792f5ec00762786a54\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\17671e4446b5389be3e57f10a090ab45\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\c6db44d070f3cf01b083d079f622d6a0\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\5ca425642ed47bc7cf06c0a7da7f8b4a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\11415dc00ac300e72c9574467fb15d21\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\8f35c75ff1da1d419780afebbc792e3b\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\76d9daaf7b438d59dc1ce58f7d9cf1d1\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\f2e29d19d6f725a8334c76e181940667\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\bd155f3f1a6989b1228a2247b551e767\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18027fc4fc8342ce8510bed8b4d6a789\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\e1095502454773a839114b6058579b3a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\jenis\caches\transforms-2\files-2.1\931867b142e52673690901a32a63eef0\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.any
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\jenis\caches\transforms-2\files-2.1\f0291a8c0b0d9e8d3e94db471e229c1e\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\jenis\caches\transforms-2\files-2.1\f0291a8c0b0d9e8d3e94db471e229c1e\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\jenis\caches\transforms-2\files-2.1\62026b57bd02b6ceb126a9028b1d7d87\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\jenis\caches\transforms-2\files-2.1\62026b57bd02b6ceb126a9028b1d7d87\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\7b6e812e16dc06ee84f1b0dcf7ab9e02\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\7b6e812e16dc06ee84f1b0dcf7ab9e02\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\bbca3086f9316cdbf86ca476be45aab4\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\bbca3086f9316cdbf86ca476be45aab4\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\e3b7b49b2dedba792f5ec00762786a54\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\e3b7b49b2dedba792f5ec00762786a54\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\jenis\caches\transforms-2\files-2.1\931867b142e52673690901a32a63eef0\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\jenis\caches\transforms-2\files-2.1\931867b142e52673690901a32a63eef0\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\bbca3086f9316cdbf86ca476be45aab4\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:16:9-58
+activity#com.androchef.cameraxfacedetection.Login_Activity
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:18:13-43
+activity#com.androchef.cameraxfacedetection.Signup_Activity
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:21:13-44
+activity#com.androchef.cameraxfacedetection.Splash_activity
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:24:13-44
+activity#com.androchef.cameraxfacedetection.MainActivity
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:27:9-37:20
+	android:exported
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\189c3a6f33647732391334140c31d3df\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\189c3a6f33647732391334140c31d3df\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\dbcf762c8b3d30cf273aa91dedda94b8\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\dbcf762c8b3d30cf273aa91dedda94b8\jetified-camera-view-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\9d59d512b6a1d39c88762d555a8fc15c\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\9d59d512b6a1d39c88762d555a8fc15c\jetified-camera-lifecycle-1.1.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\jenis\caches\transforms-2\files-2.1\f0291a8c0b0d9e8d3e94db471e229c1e\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\jenis\caches\transforms-2\files-2.1\f0291a8c0b0d9e8d3e94db471e229c1e\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\jenis\caches\transforms-2\files-2.1\62026b57bd02b6ceb126a9028b1d7d87\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\jenis\caches\transforms-2\files-2.1\62026b57bd02b6ceb126a9028b1d7d87\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\jenis\caches\transforms-2\files-2.1\783f95de84aa3ee1843ea3746a9ade73\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\jenis\caches\transforms-2\files-2.1\783f95de84aa3ee1843ea3746a9ade73\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:6:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\77c31d642b2096d7bb58e4b8679ad246\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\77c31d642b2096d7bb58e4b8679ad246\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\8e67703f2f0fa508dc93dcbef3b39e31\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\8e67703f2f0fa508dc93dcbef3b39e31\jetified-vision-interfaces-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\7b6e812e16dc06ee84f1b0dcf7ab9e02\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\7b6e812e16dc06ee84f1b0dcf7ab9e02\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\jenis\caches\transforms-2\files-2.1\740883312691156d3b7d84327249c16a\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\jenis\caches\transforms-2\files-2.1\740883312691156d3b7d84327249c16a\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\jenis\caches\transforms-2\files-2.1\f0c416b221675a9bfb2ff77cd11e063c\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\jenis\caches\transforms-2\files-2.1\f0c416b221675a9bfb2ff77cd11e063c\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\jenis\caches\transforms-2\files-2.1\9371711572a3863f1bb7127875adac27\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\jenis\caches\transforms-2\files-2.1\9371711572a3863f1bb7127875adac27\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\8a5c0a02e82051fd48f3635bf619f074\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\8a5c0a02e82051fd48f3635bf619f074\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\2fb359aab51dcb4255c06bd2d75c18eb\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\2fb359aab51dcb4255c06bd2d75c18eb\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\a58469314ab9b32adfa8791258acdf60\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\a58469314ab9b32adfa8791258acdf60\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\e6122c3d97c1393b62de62a0108d6276\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\e6122c3d97c1393b62de62a0108d6276\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jenis\caches\transforms-2\files-2.1\467cefd3574a29c397cf52aa6f66b461\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jenis\caches\transforms-2\files-2.1\467cefd3574a29c397cf52aa6f66b461\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\0a1fb452411e84795f887ed82d43ac63\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\0a1fb452411e84795f887ed82d43ac63\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\f25188e865061cebf222920103a94d95\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\f25188e865061cebf222920103a94d95\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\d25c7faaa38c81f1d52aec843399f9ce\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\d25c7faaa38c81f1d52aec843399f9ce\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\f542b45b2d4ff8fcd929f56493bd4837\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\f542b45b2d4ff8fcd929f56493bd4837\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\518eddb2bfc81fedba1076b2d1fc1a82\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\518eddb2bfc81fedba1076b2d1fc1a82\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\ac6030c81bc70f9c754335056208319c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\ac6030c81bc70f9c754335056208319c\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\73e0949864a32e6b5173f17e23e7fb82\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\73e0949864a32e6b5173f17e23e7fb82\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\bbca3086f9316cdbf86ca476be45aab4\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\jenis\caches\transforms-2\files-2.1\bbca3086f9316cdbf86ca476be45aab4\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\4f6853e81741a160d2d2d9c04e955800\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\4f6853e81741a160d2d2d9c04e955800\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\6ce4679b2c5caf884bb7dc2e0687cee4\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\6ce4679b2c5caf884bb7dc2e0687cee4\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\dfe217d6fabc3cd712bf8246522eac28\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\dfe217d6fabc3cd712bf8246522eac28\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\45dd79f29026ec8fdcd84fe3dfde5cc9\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\45dd79f29026ec8fdcd84fe3dfde5cc9\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\dd564911cb0512d654280b45d851e8d6\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\dd564911cb0512d654280b45d851e8d6\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\jenis\caches\transforms-2\files-2.1\317b4ccf91cdd17d9f880cbaf586e81f\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\jenis\caches\transforms-2\files-2.1\317b4ccf91cdd17d9f880cbaf586e81f\jetified-transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\4edc041491d2a532b37de2234b429794\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\4edc041491d2a532b37de2234b429794\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2b84712ca7ec2cd70b533a34a1261b33\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2b84712ca7ec2cd70b533a34a1261b33\jetified-firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\jenis\caches\transforms-2\files-2.1\61265bc5f4184f00906ebcd49eb19ebe\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\jenis\caches\transforms-2\files-2.1\61265bc5f4184f00906ebcd49eb19ebe\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\e3b7b49b2dedba792f5ec00762786a54\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jenis\caches\transforms-2\files-2.1\e3b7b49b2dedba792f5ec00762786a54\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\17671e4446b5389be3e57f10a090ab45\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\17671e4446b5389be3e57f10a090ab45\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\c6db44d070f3cf01b083d079f622d6a0\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\c6db44d070f3cf01b083d079f622d6a0\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\5ca425642ed47bc7cf06c0a7da7f8b4a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\jenis\caches\transforms-2\files-2.1\5ca425642ed47bc7cf06c0a7da7f8b4a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\11415dc00ac300e72c9574467fb15d21\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\11415dc00ac300e72c9574467fb15d21\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\8f35c75ff1da1d419780afebbc792e3b\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\8f35c75ff1da1d419780afebbc792e3b\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\76d9daaf7b438d59dc1ce58f7d9cf1d1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\76d9daaf7b438d59dc1ce58f7d9cf1d1\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\f2e29d19d6f725a8334c76e181940667\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\f2e29d19d6f725a8334c76e181940667\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\bd155f3f1a6989b1228a2247b551e767\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\bd155f3f1a6989b1228a2247b551e767\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18027fc4fc8342ce8510bed8b4d6a789\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18027fc4fc8342ce8510bed8b4d6a789\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\e1095502454773a839114b6058579b3a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\e1095502454773a839114b6058579b3a\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\jenis\caches\transforms-2\files-2.1\931867b142e52673690901a32a63eef0\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\jenis\caches\transforms-2\files-2.1\931867b142e52673690901a32a63eef0\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Devlopment\Face Recognition\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+MERGED from [androidx.camera:camera-core:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\b33ef32a74e63a50f826c5a0ef8da512\jetified-camera-core-1.1.0-beta03\AndroidManifest.xml:31:9-35:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:30:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta03] C:\Users\jenis\caches\transforms-2\files-2.1\8faa1eeaf614d31bbe0412181e834481\jetified-camera-camera2-1.1.0-beta03\AndroidManifest.xml:33:17-103
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\352c72dc4b1dd691189ae656559eef3d\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\7139d654ed89312863a3b189cbcd9abc\jetified-vision-common-17.1.0\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.1.0] C:\Users\jenis\caches\transforms-2\files-2.1\2ac58943c231b2b11173a6c0c98d070a\jetified-common-18.1.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\jenis\caches\transforms-2\files-2.1\3790f9e524a55fc6d9d4ea224ca9926d\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\70d06e81d7254b13c00555be7951a3c2\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\18ef3b0b18de2b0a2b31eb9916236e75\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\jenis\caches\transforms-2\files-2.1\2cab6d831fabbb056bb00e874b5f0234\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jenis\caches\transforms-2\files-2.1\be1166bdc977d2584dac280d39acfa03\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\jenis\caches\transforms-2\files-2.1\c9c604823d5a44917a81843253016b3c\jetified-transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jenis\caches\transforms-2\files-2.1\02e5c8fb44f11f64d07b49336288075a\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
